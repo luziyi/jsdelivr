@@ -8,4 +8,5 @@
 /* 应用自定义字体到整个网站 */
 body {
   font-family: "STZhongsong", sans-serif;
+  font-size: 18px; /* 调整字体大小 */
 }
