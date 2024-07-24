@@ -9,3 +9,20 @@
 body {
   font-family: "STZhongsong", sans-serif;
 }
+
+#article-container h1:before {
+  content: "<Custom>";
+}
+/* h2~6以此类推 */
+
+#article-container h1:before {
+  content: "\f0c9";
+}
+
+#article-container h2:before {
+  content: "\f0c9";
+}
+
+#article-container h3:before {
+  content: "\f0c9";
+}
