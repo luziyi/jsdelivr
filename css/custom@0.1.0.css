@@ -13,3 +13,8 @@ body {
 code {
   border-radius: 4px;
 }
+
+img {
+  border-radius: 10px; /* 你可以根据需要调整圆角的大小 */
+  box-shadow: 5px 5px 5px #888888;
+}
