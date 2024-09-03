@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "STZhongsong";
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/luziyi/jsdelivr@main/font/华文中宋.ttf") format("truetype");
+}
+
+/* 应用自定义字体到整个网站 */
+body {
+  font-family: "STZhongsong", sans-serif;
+}
+
+code {
+  border-radius: 4px;
+}
+
+img {
+  border-radius: 10px; /* 你可以根据需要调整圆角的大小 */
+  box-shadow: 5px 5px 5px #888888;
+}
+
+/* 确保使用类选择器或者自定义元素 */
+.recent-post-item {
+  height: 12.8em;
+}
+
+
